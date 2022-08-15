@@ -19,16 +19,17 @@ The goodness of the models is to be measured by the AUC (Area Under Curve) of th
 
 The goal is to create a complete notebook from data import, through EDA to data preparation, model building, analysis and validation following CRISP-DM.
 
-___________
 
-Contents: 
-- 
+### Contents: 
+- *project.ipynb*: This notebook contains the entire process, from EDA and Data Preparation to the training and optimization of prediction models (1-3) as well as their evaluation
+- *project.slides.html*: The notebook above as .html-File
+- *pump_train.csv*: The datas set used for training (train set)
+- *pump_test.csv*: The data set used for an out-of-sample evaluation of the trained models (test set)
+- *misc*: This directory contains various other notebooks that have emerged in the course of the project. This includes an analysis on feature importances as well as various notebooks on EDA, giving even deeper and more detailed insights than the plots provided in *project.ipynb*. Please note that all files in the *misc*-directory have not been cleaned up and may also contain outdated information and code.
 
 
-____
-
-Contributors:
-- 
-- 
--
-_______________--
+### Contributors:
+- [@OhItsLena]
+- [@FabianLulikat]
+- [@timo282]
+_______________
