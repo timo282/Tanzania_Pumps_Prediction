@@ -29,7 +29,7 @@ The goal is to create a complete notebook from data import, through EDA to data 
 
 
 ### Contributors:
-- [@OhItsLena]
-- [@FabianLulikat]
-- [@timo282]
+- @OhItsLena
+- @FabianLulikat
+- @timo282
 _______________
